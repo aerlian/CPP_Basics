@@ -1,0 +1,3 @@
+/Users/stephenrodgers/CLionProjects/CPP_Basics/cmake-build-debug/CMakeFiles/CPP_Basics.dir
+/Users/stephenrodgers/CLionProjects/CPP_Basics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stephenrodgers/CLionProjects/CPP_Basics/cmake-build-debug/CMakeFiles/rebuild_cache.dir

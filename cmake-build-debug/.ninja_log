@@ -1,0 +1,19 @@
+# ninja log v5
+6	473	1702261859910649559	CMakeFiles/CPP_Basics.dir/PubSub/Subscriber.cpp.o	ec313807cea74c8b
+3	552	1701910908088437698	CMakeFiles/CPP_Basics.dir/Dictionary/Custom/sjr_map.cpp.o	edba1872c5fc11e6
+2	287	1702262135726137875	CMakeFiles/CPP_Basics.dir/main.cpp.o	1bf36e997dee6f6d
+2	167	1700879506282377800	CMakeFiles/CPP_Basics.dir/StructuredBindingTests.cpp.o	96825f40c3aac9d8
+3	485	1702262128530468462	CMakeFiles/CPP_Basics.dir/Alignment/AlignmentTests.cpp.o	1461768be442f1e4
+2	509	1702261872051527161	CMakeFiles/CPP_Basics.dir/PubSub/PubSubTests.cpp.o	4f2183842eeeb814
+3	607	1702262128652348878	CMakeFiles/CPP_Basics.dir/Ranges/RangeTests.cpp.o	2a0226e8239621da
+0	7	0	clean	3c8e6cc385ee00ba
+0	47	1702262161195497787	build.ninja	a820e7a6284bc9dd
+2	541	1701910363253309760	CMakeFiles/CPP_Basics.dir/ModernCPPDesign/Policy/PolicyClasses.cpp.o	35665b80ad15881a
+2	391	1702261914159131822	CMakeFiles/CPP_Basics.dir/PubSub/Publisher.cpp.o	bf14b5a883afb3c2
+2	492	1702262128538621312	CMakeFiles/CPP_Basics.dir/MoveSemantics/MoveTests.cpp.o	cb93f5c604cdfef4
+3	489	1702262128535129317	CMakeFiles/CPP_Basics.dir/StructuredBinding/StructuredBindingTests.cpp.o	8d3a64be32de9b4e
+392	423	1702261914191697204	CPP_Basics	9ae3a753dd2716e5
+0	55	1702262161195497787	build.ninja	a820e7a6284bc9dd
+2	203	1702262161399917934	CPP_Basics	eb4eb64c9ab244dc
+1	489	1702262183816650985	CMakeFiles/CPP_Basics.dir/main.cpp.o	1bf36e997dee6f6d
+489	521	1702262183849588629	CPP_Basics	eb4eb64c9ab244dc
