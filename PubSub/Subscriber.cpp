@@ -10,7 +10,7 @@
 
 namespace PS{
     void Subscriber::OnEvent(int value) {
-        std::cout << value << std::endl;
+        std::cout << "call back value:" << value << std::endl;
     }
 
     void Subscriber::attach(const std::shared_ptr<Publisher> &publisher) {

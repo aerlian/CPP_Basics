@@ -48,57 +48,69 @@ build cmake_object_order_depends_target_CPP_Basics: phony || CMakeFiles/CPP_Basi
 
 build CMakeFiles/CPP_Basics.dir/main.cpp.o: CXX_COMPILER__CPP_Basics_Debug /Users/stephenrodgers/CLionProjects/CPP_Basics/main.cpp || cmake_object_order_depends_target_CPP_Basics
   DEP_FILE = CMakeFiles/CPP_Basics.dir/main.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -std=gnu++2b
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.0 -std=gnu++2b
   OBJECT_DIR = CMakeFiles/CPP_Basics.dir
   OBJECT_FILE_DIR = CMakeFiles/CPP_Basics.dir
 
 build CMakeFiles/CPP_Basics.dir/MoveSemantics/MoveTests.cpp.o: CXX_COMPILER__CPP_Basics_Debug /Users/stephenrodgers/CLionProjects/CPP_Basics/MoveSemantics/MoveTests.cpp || cmake_object_order_depends_target_CPP_Basics
   DEP_FILE = CMakeFiles/CPP_Basics.dir/MoveSemantics/MoveTests.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -std=gnu++2b
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.0 -std=gnu++2b
   OBJECT_DIR = CMakeFiles/CPP_Basics.dir
   OBJECT_FILE_DIR = CMakeFiles/CPP_Basics.dir/MoveSemantics
 
 build CMakeFiles/CPP_Basics.dir/StructuredBinding/StructuredBindingTests.cpp.o: CXX_COMPILER__CPP_Basics_Debug /Users/stephenrodgers/CLionProjects/CPP_Basics/StructuredBinding/StructuredBindingTests.cpp || cmake_object_order_depends_target_CPP_Basics
   DEP_FILE = CMakeFiles/CPP_Basics.dir/StructuredBinding/StructuredBindingTests.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -std=gnu++2b
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.0 -std=gnu++2b
   OBJECT_DIR = CMakeFiles/CPP_Basics.dir
   OBJECT_FILE_DIR = CMakeFiles/CPP_Basics.dir/StructuredBinding
 
 build CMakeFiles/CPP_Basics.dir/Ranges/RangeTests.cpp.o: CXX_COMPILER__CPP_Basics_Debug /Users/stephenrodgers/CLionProjects/CPP_Basics/Ranges/RangeTests.cpp || cmake_object_order_depends_target_CPP_Basics
   DEP_FILE = CMakeFiles/CPP_Basics.dir/Ranges/RangeTests.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -std=gnu++2b
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.0 -std=gnu++2b
   OBJECT_DIR = CMakeFiles/CPP_Basics.dir
   OBJECT_FILE_DIR = CMakeFiles/CPP_Basics.dir/Ranges
 
 build CMakeFiles/CPP_Basics.dir/Dictionary/Custom/sjr_map.cpp.o: CXX_COMPILER__CPP_Basics_Debug /Users/stephenrodgers/CLionProjects/CPP_Basics/Dictionary/Custom/sjr_map.cpp || cmake_object_order_depends_target_CPP_Basics
   DEP_FILE = CMakeFiles/CPP_Basics.dir/Dictionary/Custom/sjr_map.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -std=gnu++2b
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.0 -std=gnu++2b
   OBJECT_DIR = CMakeFiles/CPP_Basics.dir
   OBJECT_FILE_DIR = CMakeFiles/CPP_Basics.dir/Dictionary/Custom
 
 build CMakeFiles/CPP_Basics.dir/Alignment/AlignmentTests.cpp.o: CXX_COMPILER__CPP_Basics_Debug /Users/stephenrodgers/CLionProjects/CPP_Basics/Alignment/AlignmentTests.cpp || cmake_object_order_depends_target_CPP_Basics
   DEP_FILE = CMakeFiles/CPP_Basics.dir/Alignment/AlignmentTests.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -std=gnu++2b
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.0 -std=gnu++2b
   OBJECT_DIR = CMakeFiles/CPP_Basics.dir
   OBJECT_FILE_DIR = CMakeFiles/CPP_Basics.dir/Alignment
 
 build CMakeFiles/CPP_Basics.dir/PubSub/PubSubTests.cpp.o: CXX_COMPILER__CPP_Basics_Debug /Users/stephenrodgers/CLionProjects/CPP_Basics/PubSub/PubSubTests.cpp || cmake_object_order_depends_target_CPP_Basics
   DEP_FILE = CMakeFiles/CPP_Basics.dir/PubSub/PubSubTests.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -std=gnu++2b
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.0 -std=gnu++2b
   OBJECT_DIR = CMakeFiles/CPP_Basics.dir
   OBJECT_FILE_DIR = CMakeFiles/CPP_Basics.dir/PubSub
 
 build CMakeFiles/CPP_Basics.dir/PubSub/Publisher.cpp.o: CXX_COMPILER__CPP_Basics_Debug /Users/stephenrodgers/CLionProjects/CPP_Basics/PubSub/Publisher.cpp || cmake_object_order_depends_target_CPP_Basics
   DEP_FILE = CMakeFiles/CPP_Basics.dir/PubSub/Publisher.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -std=gnu++2b
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.0 -std=gnu++2b
   OBJECT_DIR = CMakeFiles/CPP_Basics.dir
   OBJECT_FILE_DIR = CMakeFiles/CPP_Basics.dir/PubSub
 
 build CMakeFiles/CPP_Basics.dir/PubSub/Subscriber.cpp.o: CXX_COMPILER__CPP_Basics_Debug /Users/stephenrodgers/CLionProjects/CPP_Basics/PubSub/Subscriber.cpp || cmake_object_order_depends_target_CPP_Basics
   DEP_FILE = CMakeFiles/CPP_Basics.dir/PubSub/Subscriber.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -std=gnu++2b
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.0 -std=gnu++2b
   OBJECT_DIR = CMakeFiles/CPP_Basics.dir
   OBJECT_FILE_DIR = CMakeFiles/CPP_Basics.dir/PubSub
+
+build CMakeFiles/CPP_Basics.dir/Pimpl/ComponentApi.cpp.o: CXX_COMPILER__CPP_Basics_Debug /Users/stephenrodgers/CLionProjects/CPP_Basics/Pimpl/ComponentApi.cpp || cmake_object_order_depends_target_CPP_Basics
+  DEP_FILE = CMakeFiles/CPP_Basics.dir/Pimpl/ComponentApi.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.0 -std=gnu++2b
+  OBJECT_DIR = CMakeFiles/CPP_Basics.dir
+  OBJECT_FILE_DIR = CMakeFiles/CPP_Basics.dir/Pimpl
+
+build CMakeFiles/CPP_Basics.dir/Pimpl/PimplClient.cpp.o: CXX_COMPILER__CPP_Basics_Debug /Users/stephenrodgers/CLionProjects/CPP_Basics/Pimpl/PimplClient.cpp || cmake_object_order_depends_target_CPP_Basics
+  DEP_FILE = CMakeFiles/CPP_Basics.dir/Pimpl/PimplClient.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.0 -std=gnu++2b
+  OBJECT_DIR = CMakeFiles/CPP_Basics.dir
+  OBJECT_FILE_DIR = CMakeFiles/CPP_Basics.dir/Pimpl
 
 
 # =============================================================================
@@ -108,8 +120,8 @@ build CMakeFiles/CPP_Basics.dir/PubSub/Subscriber.cpp.o: CXX_COMPILER__CPP_Basic
 #############################################
 # Link the executable CPP_Basics
 
-build CPP_Basics: CXX_EXECUTABLE_LINKER__CPP_Basics_Debug CMakeFiles/CPP_Basics.dir/main.cpp.o CMakeFiles/CPP_Basics.dir/MoveSemantics/MoveTests.cpp.o CMakeFiles/CPP_Basics.dir/StructuredBinding/StructuredBindingTests.cpp.o CMakeFiles/CPP_Basics.dir/Ranges/RangeTests.cpp.o CMakeFiles/CPP_Basics.dir/Dictionary/Custom/sjr_map.cpp.o CMakeFiles/CPP_Basics.dir/Alignment/AlignmentTests.cpp.o CMakeFiles/CPP_Basics.dir/PubSub/PubSubTests.cpp.o CMakeFiles/CPP_Basics.dir/PubSub/Publisher.cpp.o CMakeFiles/CPP_Basics.dir/PubSub/Subscriber.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+build CPP_Basics: CXX_EXECUTABLE_LINKER__CPP_Basics_Debug CMakeFiles/CPP_Basics.dir/main.cpp.o CMakeFiles/CPP_Basics.dir/MoveSemantics/MoveTests.cpp.o CMakeFiles/CPP_Basics.dir/StructuredBinding/StructuredBindingTests.cpp.o CMakeFiles/CPP_Basics.dir/Ranges/RangeTests.cpp.o CMakeFiles/CPP_Basics.dir/Dictionary/Custom/sjr_map.cpp.o CMakeFiles/CPP_Basics.dir/Alignment/AlignmentTests.cpp.o CMakeFiles/CPP_Basics.dir/PubSub/PubSubTests.cpp.o CMakeFiles/CPP_Basics.dir/PubSub/Publisher.cpp.o CMakeFiles/CPP_Basics.dir/PubSub/Subscriber.cpp.o CMakeFiles/CPP_Basics.dir/Pimpl/ComponentApi.cpp.o CMakeFiles/CPP_Basics.dir/Pimpl/PimplClient.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.0
   OBJECT_DIR = CMakeFiles/CPP_Basics.dir
   POST_BUILD = :
   PRE_LINK = :
